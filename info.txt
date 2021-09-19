@@ -1,2 +1,4 @@
 DatosPersonales
-Nombre: Daniel Padilla
+Nombre: Daniel 
+Apellidos: Padilla
+Email: dvalderramaj@uninorte.edu.co
